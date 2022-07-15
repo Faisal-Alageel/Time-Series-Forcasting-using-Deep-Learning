@@ -3,7 +3,7 @@
 Time series forecasting is one of the most important topics in data science. Almost every business needs to predict the future in order to make better decisions and allocate resources more effectively.
 
 In this project I'll use two Deep Learning methods to forecast googles stock prices, I'll use an LSTM model & a Multilayer Perceptron.
-Finally I'll visualize both forcasts copared to the real prices.
+Finally I'll visualize both forcasts compared to the real prices.
 
 
 
