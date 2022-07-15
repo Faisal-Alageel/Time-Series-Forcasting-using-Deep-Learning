@@ -18,5 +18,5 @@ The training set is googles stock open prices from 2012-2016.
 The test set is the open prices for the first month of 2017.
 ## Results
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.PNG)
 
